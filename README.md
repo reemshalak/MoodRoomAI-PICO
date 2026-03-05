@@ -52,8 +52,7 @@ No renovation required — just imagination and immersion.
 - **Meta XR SDK**
 - **Mixed Reality (MR)**
 - **Spatial Anchors**
-- ** GEMINI AI / API-based room suggestion system**
-
+- **Gemini AI | API Integrated Systems**
 
 ## How It Works
 1. The user scans their environment using the MR headset.
